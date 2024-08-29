@@ -16,7 +16,6 @@ Fork the source repository:
    2. Click the "fork" button, and choose your GitHub account if prompted.
 
 ---
-
 :cop: :raised_hand: - Please wait until everyone has caught up.
 
 :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction:
